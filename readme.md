@@ -3,6 +3,11 @@ Esta es una clase de php que sirve para obtener datos de cabecera mediante el na
 
 ## Requerimientos
   * php >= 5.6
+  
+## Git
+```shell
+git clone https://github.com/rafaelchirel/infocentro.git
+```
 
 ## Uso
 
@@ -13,7 +18,7 @@ Esta es una clase de php que sirve para obtener datos de cabecera mediante el na
 // importar la clase
 	use Api\HeadRequest;
 
-/* Metodos de la Clase */
+	/* Metodos de la Clase */
 
 // Obtiene la IP, localización de la IP, Browser, Platform y MacAddress
 	echo HeadRequest::headDataRequest();
