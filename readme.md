@@ -6,7 +6,7 @@ Esta es una clase de php que sirve para obtener datos de cabecera mediante el na
   
 ## Git
 ```shell
-git clone https://github.com/rafaelchirel/infocentro.git
+git clone https://github.com/rafaelchirel/api-head-request.git
 ```
 
 ## Uso
